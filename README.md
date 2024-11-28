@@ -1,8 +1,8 @@
 # Hi, I'm Gaspard Hedde ✌️</br>
 I'm an student in MMI 🚀 </br> </br>
-🎯 **Passionate about** Web dev, Embedded Systems and Photography  
-🌍 **Based in** Chambéry  
-📚 **Currently learning** React.js & Vue.Js 
+🎯 **Passionate about** Web dev, Embedded Systems and Photography  </br>
+🌍 **Based in** Chambéry  </br>
+📚 **Currently learning** React.js & Vue.Js </br>
 🚀 **Open to** Collaborations, and Innovative Projects  
 
 ---
