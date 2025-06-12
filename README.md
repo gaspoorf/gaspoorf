@@ -2,7 +2,7 @@
 I'm an student in MMI 🚀 </br> </br>
 🎯 **Passionate about** Web dev, Embedded Systems and Photography  </br>
 🌍 **Based in** Chambéry  </br>
-📚 **Currently learning** React.js & Vue.Js </br>
+📚 **Currently learning** WebGL and Three.Js </br>
 🚀 **Open to** Collaborations, and Innovative Projects  
 
 ---
