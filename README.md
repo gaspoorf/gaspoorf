@@ -1,7 +1,7 @@
 # Hi, I'm Gaspard Hedde ✌️</br>
-I'm an student in MMI 🚀 </br> </br>
+Student at Gobelins Paris 🚀</br> </br>
 🎯 **Passionate about** Web dev, Embedded Systems and Photography  </br>
-🌍 **Based in** Chambéry  </br>
+🌍 **Based in** Paris</br>
 📚 **Currently learning** WebGL and Three.Js </br>
 🚀 **Open to** Collaborations, and Innovative Projects  
 
