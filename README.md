@@ -1,6 +1,6 @@
 # Hi, I'm Gaspard Hedde ✌️</br>
 Student at Gobelins Paris 🚀</br> </br>
-🎯 **Passionate about** Web dev, Embedded Systems and Photography  </br>
+🎯 **Passionate about** Web creative dev & Embedded Systems</br>
 🌍 **Based in** Paris</br>
 📚 **Currently learning** WebGL and Three.Js </br>
 🚀 **Open to** Collaborations, and Innovative Projects  
