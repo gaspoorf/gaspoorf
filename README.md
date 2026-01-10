@@ -1,4 +1,4 @@
-# Hi, I'm Gaspard Hedde ✌️</br>
+# Hi, I'm Gaspard ✌️</br>
 Student at Gobelins Paris 🚀</br> </br>
 🎯 **Passionate about** Web creative dev & Embedded Systems</br>
 🌍 **Based in** Paris</br>
