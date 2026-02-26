@@ -1,5 +1,5 @@
 # Hi, I'm Gaspard ✌️</br>
-Student at Gobelins Paris 🚀</br> </br>
+Creative dev and tudent at Gobelins Paris 🚀</br> </br>
 🎯 **Passionate about** Web creative dev & Embedded Systems</br>
 🌍 **Based in** Paris</br>
 📚 **Currently learning** WebGL and Three.Js </br>
